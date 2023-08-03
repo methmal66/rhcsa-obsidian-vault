@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "938e7f9f00d309f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "358962e4aea2f974",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c02cdeda0013c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implement key authentication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "923536f10cc54dc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23952b978cf4784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rpm file name.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca24915b1cf0f805",
+    "type": "split",
+    "children": [
+      {
+        "id": "d974993b81c372bd",
+        "type": "tabs",
+        "dimension": 77.1689497716895,
+        "children": [
+          {
+            "id": "1f74cd7e698c3c67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55057082f0ce83a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#rhcsa/rh124/Ch3_File-basics",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e8990134cf19efd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc76b6e9f7a4d969",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "675edfdea07dae25",
+        "type": "tabs",
+        "dimension": 22.831050228310502,
+        "children": [
+          {
+            "id": "6d252c8aabe213fa",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a1372e3d3e1cc43",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d498d10cad5e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8934a1b13a5b7bfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Implement key authentication.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "420a92a04aeedb0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Implement key authentication.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab83d78dec5f2cf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Implement key authentication.md"
+              }
+            }
+          },
+          {
+            "id": "900f38812840a2ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "0c02cdeda0013c70",
+  "lastOpenFiles": [
+    "rpm file name.md",
+    "Implement key authentication.md",
+    "Remote file transferring.md",
+    "Permissions.md",
+    "Output redirecting.md",
+    "Moving files.md",
+    "Monitoring Processes.md",
+    "Installing packages.md",
+    "inode depletion.md",
+    "Getting help.md",
+    "File hierarchy.md",
+    "Environmental variables.md",
+    "Default permissions.md",
+    "Adding repos.md",
+    "Accounts.md",
+    "Archiving.md",
+    "Controlling services.md",
+    "Bash features.md",
+    "uid and gid mismatch.md",
+    "Time settings.md",
+    "System journal entries.md",
+    "rpm file content.md",
+    "Gaining superuser access.md",
+    "Copying files.md",
+    "README.md",
+    "Password policies.md",
+    "Pasted image 20230803123655.png",
+    "rh124-8.0-student-guide.pdf"
+  ]
+}
