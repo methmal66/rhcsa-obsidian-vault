@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "358962e4aea2f974",
+        "id": "81af0f6be73ddd9c",
         "type": "tabs",
         "children": [
           {
-            "id": "0c02cdeda0013c70",
+            "id": "8ea4330d9da5d83b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implement key authentication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "923536f10cc54dc6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d23952b978cf4784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rpm file name.md",
+                "file": "Questions/Set permissions to a directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rhcsa/rh124/Ch3_File-basics",
+                "query": "tag:rhcsa/rh124/Ch7_Permissions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,12 +88,23 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "88341e06c5c9779f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Questions/Set permissions to a directory.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 327
   },
   "right": {
     "id": "9a1372e3d3e1cc43",
@@ -127,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implement key authentication.md",
+                "file": "Questions/Set permissions to a directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implement key authentication.md",
+                "file": "Questions/Set permissions to a directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implement key authentication.md"
+                "file": "Questions/Set permissions to a directory.md"
               }
             }
           },
@@ -171,8 +164,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,35 +182,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0c02cdeda0013c70",
+  "active": "1f74cd7e698c3c67",
   "lastOpenFiles": [
-    "rpm file name.md",
-    "Implement key authentication.md",
-    "Remote file transferring.md",
-    "Permissions.md",
-    "Output redirecting.md",
-    "Moving files.md",
-    "Monitoring Processes.md",
-    "Installing packages.md",
-    "inode depletion.md",
-    "Getting help.md",
-    "File hierarchy.md",
-    "Environmental variables.md",
-    "Default permissions.md",
-    "Adding repos.md",
-    "Accounts.md",
-    "Archiving.md",
-    "Controlling services.md",
-    "Bash features.md",
-    "uid and gid mismatch.md",
-    "Time settings.md",
-    "System journal entries.md",
-    "rpm file content.md",
-    "Gaining superuser access.md",
-    "Copying files.md",
-    "README.md",
-    "Password policies.md",
-    "Pasted image 20230803123655.png",
-    "rh124-8.0-student-guide.pdf"
+    "Questions/Schedule a cron job for a user.md",
+    "Questions/Run SELinux in enforcing mode.md",
+    "Questions/Make journald persistent.md",
+    "Questions/Grant full access to user and group only.md",
+    "Questions/Create the users and groups as the requirement.md",
+    "Questions/Create a user with uid and password.md",
+    "Questions/Configure system as a NTP client.md",
+    "Questions/Allow access to others home directory.md",
+    "Questions/Add a new repo from a url.md",
+    "Questions/*Practice Questions.md",
+    "Questions/Set permissions to a directory.md",
+    "Questions/List files containing a pattern.md",
+    "Questions/Find and copy files.md",
+    "Questions/Create an archive with compression.md",
+    "Questions/Create a user without a login shell.md",
+    "Questions/Copy lines containing a pattern.md",
+    "Resources/examdump3.pdf",
+    "Resources/examdump2.pdf",
+    "Resources/examdump1.pdf",
+    "Notes/File encryption.md",
+    "Notes/Enforcement mode.md",
+    "Notes/Controlling services.md",
+    "Notes/Troubleshoot SELinux.md",
+    "Notes/Context policy.md",
+    "Notes/Boolean policy.md",
+    "Notes/Attach swap partitions.md",
+    "Notes/GPT partition scheme.md",
+    "Notes/MBR partition scheme.md",
+    "Notes/Attach new partitions.md",
+    "Resources/rh124-rhel8-official-student-workbook.pdf",
+    "Notes",
+    "untitled folder",
+    "Resources/examdump4.pdf",
+    "Resources/red.hat.certshared.ex200.vce.2022-jul-03.by.norman.68q.vce.pdf",
+    "Resources/Unconfirmed 912482.crdownload",
+    "Resources/rh134-rhel8-official-student-workbook.pdf",
+    "Pasted image 20230805105322.png",
+    "Pasted image 20230803123655.png"
   ]
 }
