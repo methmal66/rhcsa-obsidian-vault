@@ -11,12 +11,8 @@
             "id": "8ea4330d9da5d83b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/Set permissions to a directory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:rhcsa/rh124/Ch7_Permissions",
+                "query": "tag:rh124/Ch8_Processes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Questions/Set permissions to a directory.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -104,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 385
   },
   "right": {
     "id": "9a1372e3d3e1cc43",
@@ -120,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Set permissions to a directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/Set permissions to a directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Questions/Set permissions to a directory.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +163,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -182,38 +172,38 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1f74cd7e698c3c67",
+  "active": "8ea4330d9da5d83b",
   "lastOpenFiles": [
-    "Questions/Schedule a cron job for a user.md",
-    "Questions/Run SELinux in enforcing mode.md",
-    "Questions/Make journald persistent.md",
-    "Questions/Grant full access to user and group only.md",
-    "Questions/Create the users and groups as the requirement.md",
-    "Questions/Create a user with uid and password.md",
-    "Questions/Configure system as a NTP client.md",
-    "Questions/Allow access to others home directory.md",
-    "Questions/Add a new repo from a url.md",
-    "Questions/*Practice Questions.md",
-    "Questions/Set permissions to a directory.md",
-    "Questions/List files containing a pattern.md",
-    "Questions/Find and copy files.md",
-    "Questions/Create an archive with compression.md",
-    "Questions/Create a user without a login shell.md",
-    "Questions/Copy lines containing a pattern.md",
+    "Notes/System cron jobs.md",
+    "Notes/uid and gid mismatch.md",
+    "Notes/Troubleshoot SELinux.md",
+    "Notes/Time settings.md",
+    "Notes/Temporary files.md",
+    "Notes/System journal entries.md",
+    "Notes/Syslog files.md",
+    "Notes/Special permissions.md",
+    "Notes/Signalling processes.md",
+    "Notes/Shell expansion.md",
+    "Notes/Copying files.md",
+    "Notes/Bash features.md",
+    "Notes/rpm file name.md",
+    "Notes/rpm file content.md",
+    "Notes/Remote file transferring.md",
+    "Notes/Archiving.md",
+    "Notes/Implement key authentication.md",
+    "Notes/Redhat subscription.md",
+    "Notes/Permissions.md",
+    "Notes/Password policies.md",
+    "Notes/Output redirecting.md",
+    "Notes/Onetime jobs.md",
+    "Notes/Moving files.md",
+    "Notes/Monitoring Processes.md",
+    "Notes/MBR partition scheme.md",
+    "Notes/Installing packages.md",
+    "Resources/rh124-rhel8-official-student-workbook.pdf",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
-    "Notes/File encryption.md",
-    "Notes/Enforcement mode.md",
-    "Notes/Controlling services.md",
-    "Notes/Troubleshoot SELinux.md",
-    "Notes/Context policy.md",
-    "Notes/Boolean policy.md",
-    "Notes/Attach swap partitions.md",
-    "Notes/GPT partition scheme.md",
-    "Notes/MBR partition scheme.md",
-    "Notes/Attach new partitions.md",
-    "Resources/rh124-rhel8-official-student-workbook.pdf",
     "Notes",
     "untitled folder",
     "Resources/examdump4.pdf",

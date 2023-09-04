@@ -1,14 +1,10 @@
 ---
 tags:
-  - rhcsa
-  - linux
   - flashcards
-  - rhcsa/rh134/Ch4_SELinux
-related:
-  - "[[Boolean policy]]"
-  - "[[Context policy]]"
-  - "[[Troubleshoot SELinux]]"
+  - rh134/Ch4_SELinux
+  - rh134
 ---
+
 What does SELinux means?::Security Enhanced Linux
 
 What problem cannot be solved from file permissions?::Files being used for unintended purposes. How files are used
@@ -64,9 +60,3 @@ What is the default config file of SELinux?::/etc/selinux/config
 How to set the default SELinux mode?::By editing the /etc/selinux/config file
 
 What happens when both kernel parameters and default configurations exist?::Kernel parameters override the configuration file
-
-
-
-
-
-

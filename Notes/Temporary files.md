@@ -1,6 +1,9 @@
-#rhcsa #linux #flashcards #rhcsa/rh134/Ch2_Scheduling 
-
-#todo 
-
-Related:
-- [[File system hierarchy]]
+---
+tags:
+  - flashcards
+  - rh134/Ch2_Scheduling
+  - rh134
+  - todo
+related:
+  - "[[File system hierarchy]]"
+---

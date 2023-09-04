@@ -1,4 +1,11 @@
-#rhcsa #linux #flashcards #rhcsa/rh134/Ch2_Scheduling 
+---
+tags:
+  - flashcards
+  - rh134/Ch2_Scheduling
+  - rh134
+---
+
+#rhcsa #linux #flashcards #rh134/Ch2_Scheduling
 
 Where are the system cron jobs are recored?::In a separate file at `/etc/cron.d` directory
 

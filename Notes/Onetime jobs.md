@@ -1,4 +1,9 @@
-#linux #rhcsa #flashcards #rhcsa/rh134/Ch2_Scheduling
+---
+tags:
+  - flashcards
+  - rh134/Ch2_Scheduling
+  - rh134
+---
 
 Which service is used to handle future jobs?::atd
 
@@ -18,7 +23,6 @@ Which user can inspect the jobs of all the users?::Root user
 How to display the environment of a job using the job number?::`at -c 4`
 ![500](https://i.imgur.com/UCfQRhk.png)
 
-
 How to schedule 'myscript' to run at today 9pm?::`at 21:00 < myscript`
 
 How to schedule a job at today 2pm in the queue b?::`at -q b 2pm`
@@ -30,4 +34,3 @@ How to schedule a job at the tomorrow's teatime(4pm)?::`at teatiime tomorrow`
 How to schedule a job at 2023-08-05 5pm?::`at 5pm august 5 2023` or `at 5pm 2023-08-05`
 
 How to remove a job with job number 30?::`atrm 30`
-

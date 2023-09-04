@@ -1,14 +1,10 @@
 ---
 tags:
-  - linux
-  - rhcsa
   - flashcards
-  - rhcsa/rh134/Ch4_SELinux
-related:
-  - "[[Boolean policy]]"
-  - "[[Enforcement mode]]"
-  - "[[Troubleshoot SELinux]]"
+  - rh134/Ch4_SELinux
+  - rh134
 ---
+
 What is the SELinux label belongs to every resource entity, such as a file, process, directory, or port is called?
 ?
 Context label
@@ -55,7 +51,3 @@ How to view any local customisations to the default policy?
 ?
 `semanage fcontext -lC`
 ![](https://i.imgur.com/FUphnVN.png)
-
-
-
-

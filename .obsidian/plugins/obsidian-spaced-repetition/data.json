@@ -3,10 +3,7 @@
     "flashcardEasyText": "Easy",
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
-    "flashcardTags": [
-      "#rhcsa/rh124",
-      "#rhcsa/rh134"
-    ],
+    "flashcardTags": ["#rh124", "#rh134"],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
@@ -23,9 +20,7 @@
     "multilineReversedCardSeparator": "??",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
-    "tagsToReview": [
-      "#review"
-    ],
+    "tagsToReview": ["#review"],
     "noteFoldersToIgnore": [],
     "openRandomNote": true,
     "autoNextNote": false,

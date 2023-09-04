@@ -1,4 +1,9 @@
-#linux #rhcsa #flashcards #rhcsa/rh134/Ch2_Scheduling 
+---
+tags:
+  - flashcards
+  - rh134/Ch2_Scheduling
+  - rh134
+---
 
 Which service is used to handle recurring jobs?::crond
 
@@ -22,9 +27,3 @@ What is the crontab time syntax for a job to be executed at 9AM on February 3rd,
 What is the crontab time syntax for a job to be executed every five minutes in between and including 9 a.m. and 4 p.m., but only on each Friday in July?::`*/5 9-16 * jul fri` or `*/5 9-16 * 7 5`
 
 What is the crontab time syntax for a job to be executed every working day (Monday to Friday) two minutes before midnight?::`58 23 * * mon-fri`
-
-Related:
-- [[Onetime jobs]]
-- [[Anacron]]
-
-
