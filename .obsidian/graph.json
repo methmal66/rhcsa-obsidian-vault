@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#question",
+  "search": "tag:#todo  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 9.71516927083333,
   "linkStrength": 1,
   "linkDistance": 185,
-  "scale": 2.073384667775865,
-  "close": true
+  "scale": 1.745150867067714,
+  "close": false
 }

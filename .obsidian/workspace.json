@@ -11,8 +11,12 @@
             "id": "8ea4330d9da5d83b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/How to set password to never expire?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Interviews/How to set password to never expire?.md"
+              }
             }
           }
         ],
@@ -98,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385
+    "width": 251
   },
   "right": {
     "id": "9a1372e3d3e1cc43",
@@ -114,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interviews/How to set password to never expire?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Interviews/How to set password to never expire?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Interviews/How to set password to never expire?.md"
+              }
             }
           },
           {
@@ -153,8 +163,19 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "b78cc91066976bb4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,42 +195,42 @@
   },
   "active": "8ea4330d9da5d83b",
   "lastOpenFiles": [
-    "Notes/System cron jobs.md",
-    "Notes/uid and gid mismatch.md",
+    "Interviews/What is nice value? How to set nice value for particular process?.md",
+    "Interviews/Why etc-passwd and etc-shadow file cannot be merged into 1 file?.md",
+    "Interviews/You are unable to unmount the filesystem. What are the reasons behind that?.md",
+    "Interviews/Config a NFS server and connect a client to it.md",
+    "Interviews/How to check kernel routing table info?.md",
+    "Interviews/How to set password to never expire?.md",
+    "Interviews/What could be the reason if server takes more time after reboot?.md",
+    "Interviews/List all the files opened by a particular PID.md",
+    "Questions/Copy lines containing a pattern.md",
+    "Questions/Allow access to others home directory.md",
+    "Interviews/How to rollback the packages after patching?.md",
+    "Interviews/How to extend the file system?.md",
+    "Interviews/You are trying to create the file under any partition, but getting permission denied. However, no space issue and permission issue. Then what could be the reason?.md",
+    "Notes/Accounts.md",
+    "Questions/Set permissions to a directory.md",
+    "Questions/List files containing a pattern.md",
+    "Notes/Password policies.md",
+    "Notes/Adding repos.md",
+    "Notes/Attach swap partitions.md",
+    "Interviews",
+    "Notes/Attach new partitions.md",
+    "Notes/Archiving.md",
+    "Notes/Permissions.md",
+    "Notes/Remote file transferring.md",
+    "Notes/rpm file name.md",
     "Notes/Troubleshoot SELinux.md",
     "Notes/Time settings.md",
-    "Notes/Temporary files.md",
-    "Notes/System journal entries.md",
-    "Notes/Syslog files.md",
-    "Notes/Special permissions.md",
-    "Notes/Signalling processes.md",
-    "Notes/Shell expansion.md",
-    "Notes/Copying files.md",
-    "Notes/Bash features.md",
-    "Notes/rpm file name.md",
-    "Notes/rpm file content.md",
-    "Notes/Remote file transferring.md",
-    "Notes/Archiving.md",
-    "Notes/Implement key authentication.md",
-    "Notes/Redhat subscription.md",
-    "Notes/Permissions.md",
-    "Notes/Password policies.md",
-    "Notes/Output redirecting.md",
-    "Notes/Onetime jobs.md",
-    "Notes/Moving files.md",
-    "Notes/Monitoring Processes.md",
-    "Notes/MBR partition scheme.md",
-    "Notes/Installing packages.md",
-    "Resources/rh124-rhel8-official-student-workbook.pdf",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
+    "Resources/rh124-rhel8-official-student-workbook.pdf",
     "Notes",
     "untitled folder",
     "Resources/examdump4.pdf",
     "Resources/red.hat.certshared.ex200.vce.2022-jul-03.by.norman.68q.vce.pdf",
     "Resources/Unconfirmed 912482.crdownload",
-    "Resources/rh134-rhel8-official-student-workbook.pdf",
     "Pasted image 20230805105322.png",
     "Pasted image 20230803123655.png"
   ]

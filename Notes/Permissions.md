@@ -3,6 +3,7 @@ tags:
   - flashcards
   - rh124/Ch7_Permissions
   - rh124
+  - important
 ---
 
 How to find the permissions of a file?::`ls -l /path/to/file` or `ll /path/to/file`

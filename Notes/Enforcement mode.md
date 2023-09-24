@@ -3,6 +3,7 @@ tags:
   - flashcards
   - rh134/Ch4_SELinux
   - rh134
+  - important
 ---
 
 What does SELinux means?::Security Enhanced Linux

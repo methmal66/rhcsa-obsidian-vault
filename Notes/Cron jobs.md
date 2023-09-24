@@ -3,6 +3,7 @@ tags:
   - flashcards
   - rh134/Ch2_Scheduling
   - rh134
+  - important
 ---
 
 Which service is used to handle recurring jobs?::crond

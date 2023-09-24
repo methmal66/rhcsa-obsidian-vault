@@ -4,7 +4,6 @@ tags:
   - rh134/Ch2_Scheduling
   - rh134
 ---
-
 Which service is used to handle future jobs?::atd
 
 How many queues are provided by atd?::26 (from a to z)
@@ -34,3 +33,5 @@ How to schedule a job at the tomorrow's teatime(4pm)?::`at teatiime tomorrow`
 How to schedule a job at 2023-08-05 5pm?::`at 5pm august 5 2023` or `at 5pm 2023-08-05`
 
 How to remove a job with job number 30?::`atrm 30`
+
+
