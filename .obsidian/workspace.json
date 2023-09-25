@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Network File Sharing.md",
+                "file": "Notes/Automounter.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Network File Sharing.md"
+                "file": "Notes/Automounter.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Network File Sharing.md",
+                "file": "Notes/Automounter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Network File Sharing.md",
+                "file": "Notes/Automounter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Network File Sharing.md"
+                "file": "Notes/Automounter.md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "8ea4330d9da5d83b",
   "lastOpenFiles": [
-    "Notes/Stratis layered storage.md",
     "Notes/Network File Sharing.md",
+    "Notes/Stratis layered storage.md",
+    "Notes/Automounter.md",
     "Notes/Logical Volume Manager.md",
     "Interviews/How to set password to never expire?.md",
     "Interviews/How to extend the file system?.md",
@@ -221,7 +222,6 @@
     "Notes/Attach new partitions.md",
     "Notes/Archiving.md",
     "Notes/Permissions.md",
-    "Notes/Remote file transferring.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",

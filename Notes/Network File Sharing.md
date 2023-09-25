@@ -7,6 +7,7 @@ aliases:
   - NFS
 related:
   - "[[Attach new partitions]]"
+  - "[[Automounter]]"
 references:
   - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security_guide/sect-security_guide-securing_nfs-do_not_use_the_no_root_squash_option
   - https://serverfault.com/a/611013
@@ -44,4 +45,3 @@ How to list all the directories shared by a particular server?
 `showmount -e server`
 
 How to temporarily mount a shared directory inside a client machine?::`mount server:/share /mnt`
-
