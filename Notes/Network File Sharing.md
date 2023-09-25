@@ -7,6 +7,9 @@ aliases:
   - NFS
 related:
   - "[[Attach new partitions]]"
+references:
+  - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security_guide/sect-security_guide-securing_nfs-do_not_use_the_no_root_squash_option
+  - https://serverfault.com/a/611013
 ---
 What is the use of NFS?::To use a remote file system over the network, as its located in our local machine
 
@@ -26,10 +29,10 @@ How to install and enable the service?
 
 Which config file is used to add records about the sharing directories?::`/etc/exports`
 
-What are the sample records you can add to /etc/exports?
+How to add records into /etc/exports config file which will share the directories?
 ?
-Full access - rw
-Read only - ro
+![](https://i.imgur.com/beLwGKh.png)
+ro - Read only
 
 How to allow nfs from the firewall?
 ?
@@ -40,5 +43,5 @@ How to list all the directories shared by a particular server?
 ?
 `showmount -e server`
 
-How to mount a shared directory inside a client machine?::`mount server:/share /mnt`
+How to temporarily mount a shared directory inside a client machine?::`mount server:/share /mnt`
 
