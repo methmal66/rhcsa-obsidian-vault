@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/How to set password to never expire?.md",
+                "file": "Notes/Stratis layered storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Interviews/How to set password to never expire?.md"
+                "file": "Notes/Stratis layered storage.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/How to set password to never expire?.md",
+                "file": "Notes/Stratis layered storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/How to set password to never expire?.md",
+                "file": "Notes/Stratis layered storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/How to set password to never expire?.md"
+                "file": "Notes/Stratis layered storage.md"
               }
             }
           },
@@ -195,18 +195,20 @@
   },
   "active": "8ea4330d9da5d83b",
   "lastOpenFiles": [
-    "Interviews/What is nice value? How to set nice value for particular process?.md",
+    "Notes/Logical Volume Manager.md",
+    "Notes/Stratis layered storage.md",
+    "Interviews/How to set password to never expire?.md",
+    "Interviews/How to extend the file system?.md",
+    "Interviews/What could be the reason if server takes more time after reboot?.md",
     "Interviews/Why etc-passwd and etc-shadow file cannot be merged into 1 file?.md",
+    "Interviews/What is nice value? How to set nice value for particular process?.md",
     "Interviews/You are unable to unmount the filesystem. What are the reasons behind that?.md",
     "Interviews/Config a NFS server and connect a client to it.md",
     "Interviews/How to check kernel routing table info?.md",
-    "Interviews/How to set password to never expire?.md",
-    "Interviews/What could be the reason if server takes more time after reboot?.md",
     "Interviews/List all the files opened by a particular PID.md",
     "Questions/Copy lines containing a pattern.md",
     "Questions/Allow access to others home directory.md",
     "Interviews/How to rollback the packages after patching?.md",
-    "Interviews/How to extend the file system?.md",
     "Interviews/You are trying to create the file under any partition, but getting permission denied. However, no space issue and permission issue. Then what could be the reason?.md",
     "Notes/Accounts.md",
     "Questions/Set permissions to a directory.md",
@@ -220,8 +222,6 @@
     "Notes/Permissions.md",
     "Notes/Remote file transferring.md",
     "Notes/rpm file name.md",
-    "Notes/Troubleshoot SELinux.md",
-    "Notes/Time settings.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
