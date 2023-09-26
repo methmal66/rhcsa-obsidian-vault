@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Automounter.md",
+                "file": "Notes/Network File Sharing.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:rh124/Ch8_Processes",
+                "query": "nfs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "675edfdea07dae25",
@@ -95,7 +96,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Automounter.md"
+                "file": "Notes/Network File Sharing.md"
               }
             }
           }
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Automounter.md",
+                "file": "Notes/Network File Sharing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Automounter.md",
+                "file": "Notes/Network File Sharing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Automounter.md"
+                "file": "Notes/Network File Sharing.md"
               }
             }
           },
@@ -195,9 +196,10 @@
   },
   "active": "8ea4330d9da5d83b",
   "lastOpenFiles": [
+    "Interviews/Config a NFS server and connect a client to it.md",
+    "Notes/Automounter.md",
     "Notes/Network File Sharing.md",
     "Notes/Stratis layered storage.md",
-    "Notes/Automounter.md",
     "Notes/Logical Volume Manager.md",
     "Interviews/How to set password to never expire?.md",
     "Interviews/How to extend the file system?.md",
@@ -205,7 +207,6 @@
     "Interviews/Why etc-passwd and etc-shadow file cannot be merged into 1 file?.md",
     "Interviews/What is nice value? How to set nice value for particular process?.md",
     "Interviews/You are unable to unmount the filesystem. What are the reasons behind that?.md",
-    "Interviews/Config a NFS server and connect a client to it.md",
     "Interviews/How to check kernel routing table info?.md",
     "Interviews/List all the files opened by a particular PID.md",
     "Questions/Copy lines containing a pattern.md",
