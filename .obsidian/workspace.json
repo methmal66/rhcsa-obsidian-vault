@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Untitled.md",
+                "file": "Questions/Extend VG and LV.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Questions/Untitled.md"
+                "file": "Resources/examdump2.pdf"
               }
             }
           }
@@ -127,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 505
   },
   "right": {
     "id": "9a1372e3d3e1cc43",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Untitled.md",
+                "file": "Resources/examdump2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/Untitled.md",
+                "file": "Resources/examdump2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/Untitled.md"
+                "file": "Resources/examdump2.pdf"
               }
             }
           },
@@ -216,13 +216,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5b867779554f2a18",
+  "active": "3155826d58369de0",
   "lastOpenFiles": [
-    "Questions/Create a volume group, and set the size is 500M, the size of single PE is 16M. Create logical volume named lv0 in this volume group, set size is 20 PE, make it as ext3 file system, and mounted automatically under -mnt-data..md",
-    "Questions/Untitled.md",
-    "Resources/examdump1.pdf",
-    "Questions/Create a 2G swap partition which take effect automatically at boot-start, and it should not affect the original swap partition..md",
+    "Questions/Extend VG and LV.md",
     "Resources/examdump2.pdf",
+    "Resources/examdump1.pdf",
+    "Questions/Create and attach a LV.md",
+    "Questions/Create and attach a swap partition.md",
+    "Questions/Extend a logical volume.md",
     "Questions/Find and copy files.md",
     "Questions/Copy lines containing a pattern.md",
     "Notes/Network File Sharing.md",
@@ -244,8 +245,6 @@
     "Notes/Accounts.md",
     "Questions/Set permissions to a directory.md",
     "Questions/List files containing a pattern.md",
-    "Notes/Password policies.md",
-    "Notes/Adding repos.md",
     "Interviews",
     "Resources/examdump3.pdf",
     "Resources/rh124-rhel8-official-student-workbook.pdf",
