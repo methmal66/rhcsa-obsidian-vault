@@ -10,12 +10,34 @@
           {
             "id": "8ea4330d9da5d83b",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resources/examdump1.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5b867779554f2a18",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Network File Sharing.md",
+                "file": "Questions/Create a 2G swap partition which take effect automatically at boot-start, and it should not affect the original swap partition..md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3155826d58369de0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resources/examdump2.pdf"
               }
             }
           }
@@ -95,7 +117,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Network File Sharing.md"
+                "file": "Resources/examdump1.pdf"
               }
             }
           }
@@ -104,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251,
-    "collapsed": true
+    "width": 251
   },
   "right": {
     "id": "9a1372e3d3e1cc43",
@@ -121,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Network File Sharing.md",
+                "file": "Resources/examdump1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Network File Sharing.md",
+                "file": "Resources/examdump1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Network File Sharing.md"
+                "file": "Resources/examdump1.pdf"
               }
             }
           },
@@ -196,8 +217,13 @@
   },
   "active": "8ea4330d9da5d83b",
   "lastOpenFiles": [
-    "Notes/Automounter.md",
+    "Questions/Create a 2G swap partition which take effect automatically at boot-start, and it should not affect the original swap partition..md",
+    "Resources/examdump2.pdf",
+    "Resources/examdump1.pdf",
+    "Questions/Find and copy files.md",
+    "Questions/Copy lines containing a pattern.md",
     "Notes/Network File Sharing.md",
+    "Notes/Automounter.md",
     "Interviews/Config a NFS server and connect a client to it.md",
     "Notes/Stratis layered storage.md",
     "Notes/Logical Volume Manager.md",
@@ -209,7 +235,6 @@
     "Interviews/You are unable to unmount the filesystem. What are the reasons behind that?.md",
     "Interviews/How to check kernel routing table info?.md",
     "Interviews/List all the files opened by a particular PID.md",
-    "Questions/Copy lines containing a pattern.md",
     "Questions/Allow access to others home directory.md",
     "Interviews/How to rollback the packages after patching?.md",
     "Interviews/You are trying to create the file under any partition, but getting permission denied. However, no space issue and permission issue. Then what could be the reason?.md",
@@ -220,12 +245,7 @@
     "Notes/Adding repos.md",
     "Notes/Attach swap partitions.md",
     "Interviews",
-    "Notes/Attach new partitions.md",
-    "Notes/Archiving.md",
-    "Notes/Permissions.md",
     "Resources/examdump3.pdf",
-    "Resources/examdump2.pdf",
-    "Resources/examdump1.pdf",
     "Resources/rh124-rhel8-official-student-workbook.pdf",
     "Notes",
     "untitled folder",
