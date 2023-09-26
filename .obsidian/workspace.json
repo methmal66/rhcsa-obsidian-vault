@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Create a 2G swap partition which take effect automatically at boot-start, and it should not affect the original swap partition..md",
+                "file": "Questions/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/examdump1.pdf"
+                "file": "Questions/Untitled.md"
               }
             }
           }
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/examdump1.pdf",
+                "file": "Questions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/examdump1.pdf",
+                "file": "Questions/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/examdump1.pdf"
+                "file": "Questions/Untitled.md"
               }
             }
           },
@@ -215,11 +216,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8ea4330d9da5d83b",
+  "active": "5b867779554f2a18",
   "lastOpenFiles": [
+    "Questions/Create a volume group, and set the size is 500M, the size of single PE is 16M. Create logical volume named lv0 in this volume group, set size is 20 PE, make it as ext3 file system, and mounted automatically under -mnt-data..md",
+    "Questions/Untitled.md",
+    "Resources/examdump1.pdf",
     "Questions/Create a 2G swap partition which take effect automatically at boot-start, and it should not affect the original swap partition..md",
     "Resources/examdump2.pdf",
-    "Resources/examdump1.pdf",
     "Questions/Find and copy files.md",
     "Questions/Copy lines containing a pattern.md",
     "Notes/Network File Sharing.md",
@@ -243,7 +246,6 @@
     "Questions/List files containing a pattern.md",
     "Notes/Password policies.md",
     "Notes/Adding repos.md",
-    "Notes/Attach swap partitions.md",
     "Interviews",
     "Resources/examdump3.pdf",
     "Resources/rh124-rhel8-official-student-workbook.pdf",
