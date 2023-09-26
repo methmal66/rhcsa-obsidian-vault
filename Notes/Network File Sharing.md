@@ -34,11 +34,17 @@ How to add records into /etc/exports config file which will share the directorie
 ?
 ![](https://i.imgur.com/beLwGKh.png)
 ro - Read only
+rw - Read and write (full permission)
 
 How to allow nfs from the firewall?
 ?
 `firewall-cmd --add-service=nfs --permanent`
 `firewall-cmd --add-service=rpc-bind --permanent`
+
+What is the extra step needed to give write access to the shared folder?
+?
+Grand write access to user "nobody" in nfs server to the selected files
+`setfacl -m u:nobody:rwx /sharenfs`
 
 How to list all the directories shared by a particular server?
 ?

@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nfs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "675edfdea07dae25",
@@ -105,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 251,
+    "collapsed": true
   },
   "right": {
     "id": "9a1372e3d3e1cc43",
@@ -196,9 +196,9 @@
   },
   "active": "8ea4330d9da5d83b",
   "lastOpenFiles": [
-    "Interviews/Config a NFS server and connect a client to it.md",
     "Notes/Automounter.md",
     "Notes/Network File Sharing.md",
+    "Interviews/Config a NFS server and connect a client to it.md",
     "Notes/Stratis layered storage.md",
     "Notes/Logical Volume Manager.md",
     "Interviews/How to set password to never expire?.md",
