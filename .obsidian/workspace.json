@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Extend VG and LV.md",
+                "file": "Questions/Shrink logical volume.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/examdump2.pdf"
+                "file": "Questions/Shrink logical volume.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/examdump2.pdf",
+                "file": "Questions/Shrink logical volume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/examdump2.pdf",
+                "file": "Questions/Shrink logical volume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/examdump2.pdf"
+                "file": "Questions/Shrink logical volume.md"
               }
             }
           },
@@ -216,10 +216,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3155826d58369de0",
+  "active": "5b867779554f2a18",
   "lastOpenFiles": [
-    "Questions/Extend VG and LV.md",
     "Resources/examdump2.pdf",
+    "Questions/Shrink logical volume.md",
+    "Questions/Extend VG and LV.md",
     "Resources/examdump1.pdf",
     "Questions/Create and attach a LV.md",
     "Questions/Create and attach a swap partition.md",
@@ -244,7 +245,6 @@
     "Interviews/You are trying to create the file under any partition, but getting permission denied. However, no space issue and permission issue. Then what could be the reason?.md",
     "Notes/Accounts.md",
     "Questions/Set permissions to a directory.md",
-    "Questions/List files containing a pattern.md",
     "Interviews",
     "Resources/examdump3.pdf",
     "Resources/rh124-rhel8-official-student-workbook.pdf",
