@@ -5,6 +5,8 @@ tags:
 references:
   - "[[Logical Volume Manager]]"
 ---
+![](https://i.imgur.com/s9ydxhv.jpg)
+
 We are working on /data initially the size is 2GB. The /dev/test0/lvtestvolume is mount on /data. Now you required more space on /data but you already added all physical volumes belongs to the disk. You saw that you have unallocated space around 5 GB on your hard disk. Increase the size of lvtestvolume by 5GB.
 
 > [!faq]- Answer
@@ -12,3 +14,7 @@ We are working on /data initially the size is 2GB. The /dev/test0/lvtestvolume i
 > 2. Create a PV from that partition `pvcreate /dev/sda2`
 > 3. Extend our VG with that PV `vgextend test0 /dev/sda2`
 > 4. Extend our LV with filesystem resizing `lvextend test0/lvtestvolume -r -L +5GB`
+>  ![](https://i.imgur.com/89TYeOx.jpg)
+
+
+
