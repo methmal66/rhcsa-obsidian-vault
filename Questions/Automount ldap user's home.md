@@ -2,6 +2,7 @@
 tags:
   - question
   - rh134/Ch7_NetStorage
+  - todo
 references:
   - "[[Automounter]]"
 ---
