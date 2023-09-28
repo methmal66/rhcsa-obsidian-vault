@@ -11,9 +11,21 @@
             "id": "3155826d58369de0",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Create a logical volume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f380c6fb79d4d94",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Resources/examdump1.pdf"
+                "file": "Resources/examdump3.pdf"
               }
             }
           }
@@ -93,7 +105,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/examdump1.pdf"
+                "file": "Questions/Create a logical volume.md"
               }
             }
           }
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/examdump1.pdf",
+                "file": "Questions/Create a logical volume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/examdump1.pdf",
+                "file": "Questions/Create a logical volume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/examdump1.pdf"
+                "file": "Questions/Create a logical volume.md"
               }
             }
           },
@@ -193,16 +205,17 @@
   },
   "active": "3155826d58369de0",
   "lastOpenFiles": [
+    "Questions/Extend a logical volume.md",
+    "Questions/Troubleshoot NFS.md",
+    "Resources/examdump3.pdf",
+    "Resources/examdump2.pdf",
+    "Resources/examdump1.pdf",
     "Questions/Automount ldap user's home.md",
     "Notes/Automounter.md",
     "Notes/Attach swap partitions.md",
     "Notes/Network File Sharing.md",
     "Questions/Extend VG and LV.md",
-    "Resources/examdump1.pdf",
     "Resources/examdump4.pdf",
-    "Resources/examdump3.pdf",
-    "Resources/examdump2.pdf",
-    "Questions/Extend a logical volume.md",
     "Questions/Shrink logical volume.md",
     "Questions/Create the users and groups as the requirement.md",
     "Questions/Find and copy files.md",
@@ -213,7 +226,7 @@
     "Questions/Schedule a cron job for a user.md",
     "Pasted image 20230928155843.png",
     "Questions/Extend logical volume 2.md",
-    "Questions/Create and attach a LV.md",
+    "Questions/Create a logical volume.md",
     "Questions/Create and attach a swap partition.md",
     "Questions/Copy lines containing a pattern.md",
     "Interviews/Config a NFS server and connect a client to it.md",
@@ -222,8 +235,6 @@
     "Interviews/How to set password to never expire?.md",
     "Interviews/How to extend the file system?.md",
     "Interviews/What could be the reason if server takes more time after reboot?.md",
-    "Interviews/Why etc-passwd and etc-shadow file cannot be merged into 1 file?.md",
-    "Interviews/What is nice value? How to set nice value for particular process?.md",
     "Interviews",
     "Resources/rh124-rhel8-official-student-workbook.pdf",
     "Notes",
