@@ -3,6 +3,8 @@ tags:
   - flashcards
   - "#rh134"
   - rh134/Ch7_NetStorage
+aliases:
+  - Autofs
 ---
 Why the automounter function was created?::To solve the problem that unprivileged users dont have sufficient permissions to use mount command, so they cannot access removable devices
 
