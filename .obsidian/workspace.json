@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Boot target.md",
+                "file": "Notes/Kernel parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Boot target.md"
+                "file": "Notes/Kernel parameters.md"
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Boot target.md",
+                "file": "Notes/Kernel parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Boot target.md",
+                "file": "Notes/Kernel parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Boot target.md"
+                "file": "Notes/Kernel parameters.md"
               }
             }
           },
@@ -195,8 +195,10 @@
   },
   "active": "95d54bfa0f60fbf5",
   "lastOpenFiles": [
-    "Notes/Boot process.md",
+    "Notes/Reset root password.md",
+    "Notes/Kernel parameters.md",
     "Notes/Boot target.md",
+    "Notes/Boot process.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
@@ -224,8 +226,6 @@
     "Interviews/Config a NFS server and connect a client to it.md",
     "Notes/Stratis layered storage.md",
     "Notes/Logical Volume Manager.md",
-    "Interviews/How to set password to never expire?.md",
-    "Interviews/How to extend the file system?.md",
     "Interviews",
     "Resources/rh124-rhel8-official-student-workbook.pdf",
     "Notes",
