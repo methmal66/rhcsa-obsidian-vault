@@ -3,6 +3,9 @@ tags:
   - flashcards
   - rh134
   - rh134/Ch6_LVM
+  - important
+required:
+  - "[[Attach new partitions]]"
 ---
 Why LVM is used?::To overcome the limitation of physical partitions
 

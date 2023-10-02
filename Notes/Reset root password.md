@@ -3,6 +3,9 @@ tags:
   - rh134
   - rh134/Ch8_Boot
   - important
+  - flashcards
+related:
+  - "[[Kernel parameters]]"
 ---
 What are the steps to reset the root password when the system is physically accessible?
 ?

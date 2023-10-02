@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Kernel parameters.md",
+                "file": "Notes/Boot target.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:boot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "675edfdea07dae25",
@@ -95,7 +96,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Kernel parameters.md"
+                "file": "Notes/Boot target.md"
               }
             }
           }
@@ -104,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390
+    "width": 390,
+    "collapsed": true
   },
   "right": {
     "id": "9a1372e3d3e1cc43",
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Kernel parameters.md",
+                "file": "Notes/Boot target.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Kernel parameters.md",
+                "file": "Notes/Boot target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Kernel parameters.md"
+                "file": "Notes/Boot target.md"
               }
             }
           },
@@ -195,37 +197,37 @@
   },
   "active": "95d54bfa0f60fbf5",
   "lastOpenFiles": [
+    "Notes/Controlling jobs.md",
+    "Notes/Controlling services.md",
+    "Notes/Copying files.md",
+    "Notes/Creating links.md",
+    "Notes/Cron jobs.md",
+    "Notes/Default permissions.md",
+    "Notes/Deleting files.md",
+    "Notes/Enforcement mode.md",
+    "Notes/Environmental variables.md",
+    "Notes/File system hierarchy.md",
+    "Notes/Gaining superuser access.md",
+    "Notes/Implement key authentication.md",
+    "Notes/Logical Volume Manager.md",
+    "Notes/Attach new partitions.md",
+    "Notes/Permissions.md",
+    "Notes/Password policies.md",
+    "Notes/Redhat subscription.md",
+    "Notes/Remote file transferring.md",
     "Notes/Reset root password.md",
+    "Notes/Monitoring Processes.md",
     "Notes/Kernel parameters.md",
-    "Notes/Boot target.md",
-    "Notes/Boot process.md",
+    "Notes/Installing packages.md",
+    "Notes/MBR partition scheme.md",
+    "Notes/Moving files.md",
+    "Notes/Network File Sharing.md",
+    "Notes/System cron jobs.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
-    "Questions/Extend VG and LV.md",
-    "Questions/Create a logical volume.md",
-    "Questions/Extend a logical volume.md",
-    "Questions/Troubleshoot NFS.md",
-    "Questions/Automount ldap user's home.md",
-    "Notes/Automounter.md",
-    "Notes/Attach swap partitions.md",
-    "Notes/Network File Sharing.md",
     "Resources/examdump4.pdf",
-    "Questions/Shrink logical volume.md",
-    "Questions/Create the users and groups as the requirement.md",
-    "Questions/Find and copy files.md",
-    "Questions/Grant full access to user and group only.md",
-    "Questions/List files containing a pattern.md",
-    "Questions/Make journald persistent.md",
-    "Questions/Run SELinux in enforcing mode.md",
-    "Questions/Schedule a cron job for a user.md",
     "Pasted image 20230928155843.png",
-    "Questions/Extend logical volume 2.md",
-    "Questions/Create and attach a swap partition.md",
-    "Questions/Copy lines containing a pattern.md",
-    "Interviews/Config a NFS server and connect a client to it.md",
-    "Notes/Stratis layered storage.md",
-    "Notes/Logical Volume Manager.md",
     "Interviews",
     "Resources/rh124-rhel8-official-student-workbook.pdf",
     "Notes",

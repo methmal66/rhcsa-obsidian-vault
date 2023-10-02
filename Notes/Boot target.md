@@ -21,10 +21,12 @@ Which boot target provides read only permissions during an emergency?::emergency
 How to list all the available targets?
 ?
 `systemctl  list-units --type=target --all`
+![](https://i.imgur.com/Bv23R3A.png)
 
 How to list the dependencies of a target?
 ?
 `systemctl list-dependencies graphical.target`
+![400](https://i.imgur.com/x9lyBUR.png)
 
 How to switch to a different target by immediately rebooting the system?::`systemctl isolate multi-user.target`
 

@@ -4,7 +4,6 @@ tags:
   - rh124/Ch11_Logs
   - rh124
 ---
-
 Which service stores logging data in a structured, indexed binary file called the journal?::systemd-journald
 
 <!--SR:!2023-08-25,21,304-->
