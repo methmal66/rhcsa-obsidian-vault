@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Create a logical volume.md",
+                "file": "Questions/Extend VG and LV.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Questions/Create a logical volume.md"
+                "file": "Questions/Extend VG and LV.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Create a logical volume.md",
+                "file": "Questions/Extend VG and LV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/Create a logical volume.md",
+                "file": "Questions/Extend VG and LV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/Create a logical volume.md"
+                "file": "Questions/Extend VG and LV.md"
               }
             }
           },
@@ -205,16 +205,17 @@
   },
   "active": "3155826d58369de0",
   "lastOpenFiles": [
+    "Resources/examdump3.pdf",
+    "Questions/Extend VG and LV.md",
+    "Questions/Create a logical volume.md",
     "Questions/Extend a logical volume.md",
     "Questions/Troubleshoot NFS.md",
-    "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
     "Questions/Automount ldap user's home.md",
     "Notes/Automounter.md",
     "Notes/Attach swap partitions.md",
     "Notes/Network File Sharing.md",
-    "Questions/Extend VG and LV.md",
     "Resources/examdump4.pdf",
     "Questions/Shrink logical volume.md",
     "Questions/Create the users and groups as the requirement.md",
@@ -226,7 +227,6 @@
     "Questions/Schedule a cron job for a user.md",
     "Pasted image 20230928155843.png",
     "Questions/Extend logical volume 2.md",
-    "Questions/Create a logical volume.md",
     "Questions/Create and attach a swap partition.md",
     "Questions/Copy lines containing a pattern.md",
     "Interviews/Config a NFS server and connect a client to it.md",
