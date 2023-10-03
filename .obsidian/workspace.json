@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa4831224c8d9063",
+        "id": "ac9c45f162f89db2",
         "type": "tabs",
         "children": [
           {
-            "id": "95d54bfa0f60fbf5",
+            "id": "701540480407f2dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Model paper - part II.md",
+                "file": "Notes/Reset root password.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,25 +82,16 @@
         "dimension": 22.831050228310502,
         "children": [
           {
-            "id": "6d252c8aabe213fa",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "88341e06c5c9779f",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Questions/Model paper - part II.md"
+                "file": "Notes/Reset root password.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/Model paper - part II.md",
+                "file": "Notes/Reset root password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/Model paper - part II.md",
+                "file": "Notes/Reset root password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/Model paper - part II.md"
+                "file": "Notes/Reset root password.md"
               }
             }
           },
@@ -173,14 +164,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "f99d61e06045b2d0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,34 +191,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "95d54bfa0f60fbf5",
+  "active": "701540480407f2dc",
   "lastOpenFiles": [
-    "README.md",
+    "Notes/Tuning profiles.md",
+    "Notes/Redhat subscription.md",
+    "Notes/Remote file transferring.md",
+    "Notes/Getting help.md",
+    "Notes/Default permissions.md",
+    "Notes/Deleting files.md",
+    "Notes/Automounter.md",
+    "Notes/Compression.md",
+    "Notes/Context policy.md",
+    "Notes/Boot target.md",
+    "Notes/Controlling jobs.md",
     "Questions/Model paper - part II.md",
+    "README.md",
     "Notes/Reset root password.md",
     "Notes/Kernel parameters.md",
-    "Notes/Automounter.md",
     "Notes/Attach swap partitions.md",
     "Notes/Attach new partitions.md",
     "Notes/Bash features.md",
     "Notes/Boolean policy.md",
     "Notes/Boot process.md",
-    "Notes/Boot target.md",
-    "Notes/Compression.md",
-    "Notes/Context policy.md",
-    "Notes/Controlling jobs.md",
     "Notes/Controlling services.md",
     "Notes/Copying files.md",
     "Notes/Creating links.md",
     "Notes/Cron jobs.md",
-    "Notes/Default permissions.md",
-    "Notes/Deleting files.md",
     "Notes/Enforcement mode.md",
     "Notes/Environmental variables.md",
-    "Notes/File system hierarchy.md",
-    "Notes/Gaining superuser access.md",
-    "Notes/Implement key authentication.md",
-    "Notes/Logical Volume Manager.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
