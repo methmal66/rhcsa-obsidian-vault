@@ -23,8 +23,7 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": false,
     "tagsToReview": [
-      "#rh134",
-      ""
+      "#important"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,

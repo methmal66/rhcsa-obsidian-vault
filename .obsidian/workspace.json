@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Reset root password.md",
+                "file": "Notes/Attach new partitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Reset root password.md"
+                "file": "Notes/Attach new partitions.md"
               }
             }
           }
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390
+    "width": 247.00390243530273
   },
   "right": {
     "id": "9a1372e3d3e1cc43",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Reset root password.md",
+                "file": "Notes/Attach new partitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Reset root password.md",
+                "file": "Notes/Attach new partitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Reset root password.md"
+                "file": "Notes/Attach new partitions.md"
               }
             }
           },
@@ -193,32 +193,32 @@
   },
   "active": "701540480407f2dc",
   "lastOpenFiles": [
-    "Notes/Tuning profiles.md",
-    "Notes/Redhat subscription.md",
-    "Notes/Remote file transferring.md",
-    "Notes/Getting help.md",
-    "Notes/Default permissions.md",
-    "Notes/Deleting files.md",
-    "Notes/Automounter.md",
-    "Notes/Compression.md",
-    "Notes/Context policy.md",
-    "Notes/Boot target.md",
-    "Notes/Controlling jobs.md",
-    "Questions/Model paper - part II.md",
-    "README.md",
-    "Notes/Reset root password.md",
-    "Notes/Kernel parameters.md",
     "Notes/Attach swap partitions.md",
     "Notes/Attach new partitions.md",
+    "Notes/Automounter.md",
+    "Notes/Archiving.md",
+    "Notes/Anacron.md",
+    "Notes/Adding repos.md",
     "Notes/Bash features.md",
+    "Notes/Accounts.md",
+    "Questions/Model paper - part II.md",
     "Notes/Boolean policy.md",
     "Notes/Boot process.md",
-    "Notes/Controlling services.md",
+    "Notes/Controlling jobs.md",
     "Notes/Copying files.md",
-    "Notes/Creating links.md",
-    "Notes/Cron jobs.md",
     "Notes/Enforcement mode.md",
-    "Notes/Environmental variables.md",
+    "Notes/System journal entries.md",
+    "Notes/Time settings.md",
+    "Notes/Deleting files.md",
+    "Notes/Creating links.md",
+    "Notes/Controlling services.md",
+    "Questions/Troubleshoot NFS.md",
+    "Notes/Kernel parameters.md",
+    "Notes/Reset root password.md",
+    "Notes/Redhat subscription.md",
+    "Notes/Permissions.md",
+    "Notes/Shell expansions.md",
+    "Notes/Tuning profiles.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
