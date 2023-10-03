@@ -10,6 +10,8 @@ related:
 What are the steps to reset the root password when the system is physically accessible?
 ?
 1. Access the initramfs debug shell by giving `rd.break` as a kernel parameter
+![](https://i.imgur.com/cq5AKXJ.png)
+
 2. Remount the filesystem `mount -o remount,rw /sysroot`
 3. Switch into a chroot jail `chroot /sysroot`
 4. Set a new root password `passwd root`

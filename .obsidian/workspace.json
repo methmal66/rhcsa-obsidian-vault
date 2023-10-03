@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Boot target.md",
+                "file": "Questions/Model paper - part II.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:boot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "675edfdea07dae25",
@@ -96,7 +95,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Boot target.md"
+                "file": "Questions/Model paper - part II.md"
               }
             }
           }
@@ -105,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390,
-    "collapsed": true
+    "width": 390
   },
   "right": {
     "id": "9a1372e3d3e1cc43",
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Boot target.md",
+                "file": "Questions/Model paper - part II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Boot target.md",
+                "file": "Questions/Model paper - part II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Boot target.md"
+                "file": "Questions/Model paper - part II.md"
               }
             }
           },
@@ -197,6 +195,19 @@
   },
   "active": "95d54bfa0f60fbf5",
   "lastOpenFiles": [
+    "README.md",
+    "Questions/Model paper - part II.md",
+    "Notes/Reset root password.md",
+    "Notes/Kernel parameters.md",
+    "Notes/Automounter.md",
+    "Notes/Attach swap partitions.md",
+    "Notes/Attach new partitions.md",
+    "Notes/Bash features.md",
+    "Notes/Boolean policy.md",
+    "Notes/Boot process.md",
+    "Notes/Boot target.md",
+    "Notes/Compression.md",
+    "Notes/Context policy.md",
     "Notes/Controlling jobs.md",
     "Notes/Controlling services.md",
     "Notes/Copying files.md",
@@ -210,19 +221,6 @@
     "Notes/Gaining superuser access.md",
     "Notes/Implement key authentication.md",
     "Notes/Logical Volume Manager.md",
-    "Notes/Attach new partitions.md",
-    "Notes/Permissions.md",
-    "Notes/Password policies.md",
-    "Notes/Redhat subscription.md",
-    "Notes/Remote file transferring.md",
-    "Notes/Reset root password.md",
-    "Notes/Monitoring Processes.md",
-    "Notes/Kernel parameters.md",
-    "Notes/Installing packages.md",
-    "Notes/MBR partition scheme.md",
-    "Notes/Moving files.md",
-    "Notes/Network File Sharing.md",
-    "Notes/System cron jobs.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
