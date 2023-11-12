@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rh134",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "675edfdea07dae25",
@@ -192,7 +193,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "701540480407f2dc",
+  "active": "55057082f0ce83a3",
   "lastOpenFiles": [
     "Interviews/How to check kernel routing table info?.md",
     "Interviews/How to set password to never expire?.md",
