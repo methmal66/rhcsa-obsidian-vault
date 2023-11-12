@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Attach new partitions.md",
+                "file": "Interviews/Config a NFS server and connect a client to it.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#rh134",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Attach new partitions.md"
+                "file": "Interviews/Config a NFS server and connect a client to it.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Attach new partitions.md",
+                "file": "Interviews/Config a NFS server and connect a client to it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Attach new partitions.md",
+                "file": "Interviews/Config a NFS server and connect a client to it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Attach new partitions.md"
+                "file": "Interviews/Config a NFS server and connect a client to it.md"
               }
             }
           },
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +194,19 @@
   },
   "active": "701540480407f2dc",
   "lastOpenFiles": [
-    "Notes/Attach swap partitions.md",
+    "Interviews/How to check kernel routing table info?.md",
+    "Interviews/How to set password to never expire?.md",
+    "Interviews/Why etc-passwd and etc-shadow file cannot be merged into 1 file?.md",
+    "Interviews/You are trying to create the file under any partition, but getting permission denied. However, no space issue and permission issue. Then what could be the reason?.md",
+    "Interviews/You are unable to unmount the filesystem. What are the reasons behind that?.md",
+    "Interviews/What is nice value? How to set nice value for particular process?.md",
+    "Interviews/Config a NFS server and connect a client to it.md",
+    "Interviews/List all the files opened by a particular PID.md",
+    "Interviews/How to rollback the packages after patching?.md",
+    "Notes/Output redirecting.md",
+    "Notes/Password policies.md",
     "Notes/Attach new partitions.md",
+    "Notes/Attach swap partitions.md",
     "Notes/Automounter.md",
     "Notes/Archiving.md",
     "Notes/Anacron.md",
@@ -208,17 +220,6 @@
     "Notes/Copying files.md",
     "Notes/Enforcement mode.md",
     "Notes/System journal entries.md",
-    "Notes/Time settings.md",
-    "Notes/Deleting files.md",
-    "Notes/Creating links.md",
-    "Notes/Controlling services.md",
-    "Questions/Troubleshoot NFS.md",
-    "Notes/Kernel parameters.md",
-    "Notes/Reset root password.md",
-    "Notes/Redhat subscription.md",
-    "Notes/Permissions.md",
-    "Notes/Shell expansions.md",
-    "Notes/Tuning profiles.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
