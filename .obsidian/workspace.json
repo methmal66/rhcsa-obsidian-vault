@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Config a NFS server and connect a client to it.md",
+                "file": "Notes/Special permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "675edfdea07dae25",
@@ -88,7 +87,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Interviews/Config a NFS server and connect a client to it.md"
+                "file": "Notes/Special permissions.md"
               }
             }
           }
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Config a NFS server and connect a client to it.md",
+                "file": "Notes/Special permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Config a NFS server and connect a client to it.md",
+                "file": "Notes/Special permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Config a NFS server and connect a client to it.md"
+                "file": "Notes/Special permissions.md"
               }
             }
           },
@@ -193,15 +192,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "55057082f0ce83a3",
+  "active": "701540480407f2dc",
   "lastOpenFiles": [
+    "Interviews/Config a NFS server and connect a client to it.md",
     "Interviews/How to check kernel routing table info?.md",
     "Interviews/How to set password to never expire?.md",
     "Interviews/Why etc-passwd and etc-shadow file cannot be merged into 1 file?.md",
     "Interviews/You are trying to create the file under any partition, but getting permission denied. However, no space issue and permission issue. Then what could be the reason?.md",
     "Interviews/You are unable to unmount the filesystem. What are the reasons behind that?.md",
     "Interviews/What is nice value? How to set nice value for particular process?.md",
-    "Interviews/Config a NFS server and connect a client to it.md",
     "Interviews/List all the files opened by a particular PID.md",
     "Interviews/How to rollback the packages after patching?.md",
     "Notes/Output redirecting.md",
