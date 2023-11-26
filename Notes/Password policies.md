@@ -14,7 +14,7 @@ Who become the default owner of the file?::`User who created the file`
 
 Who can delete a file or directory?::Root, owner or anyone with the write access to the parent directory
 
-<!--SR:!2023-10-17,72,291-->
+<!--SR:!2023-10-17,72,291-->![WW5homN.png](https://i.imgur.com/WW5homN.png)
 
 What is the recommended method of preventing an account from accessing by an employee who has left the company?::Lock the account
 
