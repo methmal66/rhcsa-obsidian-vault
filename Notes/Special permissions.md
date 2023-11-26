@@ -4,6 +4,7 @@ tags:
   - rh124/Ch7_Permissions
   - rh124
 ---
+![](https://i.imgur.com/fyC7m7M.png)
 
 Which special file permission is used to run a file(mostly script) as the owner of it(mostly root), no matter who is logged in currently?::suid
 
