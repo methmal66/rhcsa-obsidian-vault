@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Special permissions.md",
+                "file": "Notes/Attach swap partitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Special permissions.md"
+                "file": "Notes/Attach swap partitions.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Special permissions.md",
+                "file": "Notes/Attach swap partitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Special permissions.md",
+                "file": "Notes/Attach swap partitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Special permissions.md"
+                "file": "Notes/Attach swap partitions.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "701540480407f2dc",
   "lastOpenFiles": [
+    "Notes/Special permissions.md",
     "Notes/Password policies.md",
     "Notes/Permissions.md",
     "Notes/Accounts.md",
@@ -219,7 +220,6 @@
     "Questions/Add a new repo from a url.md",
     "Questions/Allow access to others home directory.md",
     "Questions/Automount ldap user's home.md",
-    "Questions/Configure system as a NTP client.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
