@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Attach swap partitions.md",
+                "file": "Notes/Special permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "special permission ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "675edfdea07dae25",
@@ -87,7 +88,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Attach swap partitions.md"
+                "file": "Notes/Special permissions.md"
               }
             }
           }
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Attach swap partitions.md",
+                "file": "Notes/Special permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Attach swap partitions.md",
+                "file": "Notes/Special permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Attach swap partitions.md"
+                "file": "Notes/Special permissions.md"
               }
             }
           },
@@ -194,6 +195,9 @@
   },
   "active": "701540480407f2dc",
   "lastOpenFiles": [
+    "Notes/Adding repos.md",
+    "Questions/Add a new repo from a url.md",
+    "Notes/Attach swap partitions.md",
     "Notes/Special permissions.md",
     "Notes/Password policies.md",
     "Notes/Permissions.md",
@@ -217,9 +221,6 @@
     "Questions/Make journald persistent.md",
     "Questions/Grant full access to user and group only.md",
     "Questions/*Practice Questions.md",
-    "Questions/Add a new repo from a url.md",
-    "Questions/Allow access to others home directory.md",
-    "Questions/Automount ldap user's home.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
