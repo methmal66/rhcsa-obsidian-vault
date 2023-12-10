@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Special permissions.md",
+                "file": "Notes/Attach new partitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "special permission ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "675edfdea07dae25",
@@ -88,7 +88,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Special permissions.md"
+                "file": "Notes/Attach new partitions.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Special permissions.md",
+                "file": "Notes/Attach new partitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Special permissions.md",
+                "file": "Notes/Attach new partitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Special permissions.md"
+                "file": "Notes/Attach new partitions.md"
               }
             }
           },
@@ -195,14 +195,22 @@
   },
   "active": "701540480407f2dc",
   "lastOpenFiles": [
+    "Notes/Attach swap partitions.md",
+    "Notes/Attach new partitions.md",
+    "Questions/Shrink logical volume.md",
+    "Notes/MBR partition scheme.md",
+    "Notes/GPT partition scheme.md",
+    "Notes/Stratis layered storage.md",
+    "Questions/Create and attach a swap partition.md",
+    "Questions/Extend VG and LV.md",
+    "Notes/Logical Volume Manager.md",
+    "Questions/Create a logical volume.md",
+    "Notes/Special permissions.md",
     "Notes/Adding repos.md",
     "Questions/Add a new repo from a url.md",
-    "Notes/Attach swap partitions.md",
-    "Notes/Special permissions.md",
     "Notes/Password policies.md",
     "Notes/Permissions.md",
     "Notes/Accounts.md",
-    "Notes/Logical Volume Manager.md",
     "Notes/Kernel parameters.md",
     "Notes/inode depletion.md",
     "Notes/Implement key authentication.md",
@@ -213,14 +221,6 @@
     "Notes/Signalling processes.md",
     "Notes/Moving files.md",
     "Notes/Reset root password.md",
-    "Questions/Troubleshoot NFS.md",
-    "Questions/Shrink logical volume.md",
-    "Questions/Set permissions to a directory.md",
-    "Questions/Run SELinux in enforcing mode.md",
-    "Questions/Model paper - part II.md",
-    "Questions/Make journald persistent.md",
-    "Questions/Grant full access to user and group only.md",
-    "Questions/*Practice Questions.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",

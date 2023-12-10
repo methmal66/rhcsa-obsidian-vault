@@ -6,11 +6,9 @@ tags:
   - rh134
   - important
 ---
-
 ![](https://i.imgur.com/FepFlek.png)
 
 Why swap partitions are used?::To supplement the main memory
-
 # Step1: Create swap partitions
 How to create a 500MiB swap partition in a MBR disk?::`parted /dev/vda mkpart primary linux-swap 3001M 3501M`
 
