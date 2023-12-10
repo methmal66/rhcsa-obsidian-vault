@@ -63,7 +63,7 @@ How to extend a LV, if there is enough space in that VG?::`lvextend vg01/lv01 -L
 
 How to extend a VG, if there is no additional space?::`vgextend vg01 /dev/vdc`
 
-How to grow an ext4 filesystem when a LV is extended?::`resize2fs /dev/vg01/lv01`
+How to grow an ext4 filesystem when a LV is extended?::`resize2fs /mnt/data`
 
 How to grow a xfs filesystem when a LV is extended?::`xfs_growfs /mnt/data`
 

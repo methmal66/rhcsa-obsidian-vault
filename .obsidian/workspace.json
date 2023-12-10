@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Attach new partitions.md",
+                "file": "Notes/Logical Volume Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Attach new partitions.md"
+                "file": "Notes/Logical Volume Manager.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Attach new partitions.md",
+                "file": "Notes/Logical Volume Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Attach new partitions.md",
+                "file": "Notes/Logical Volume Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Attach new partitions.md"
+                "file": "Notes/Logical Volume Manager.md"
               }
             }
           },
@@ -195,16 +195,17 @@
   },
   "active": "701540480407f2dc",
   "lastOpenFiles": [
-    "Notes/Attach swap partitions.md",
+    "Questions/Extend a logical volume.md",
+    "Questions/Create a logical volume.md",
+    "Notes/Logical Volume Manager.md",
+    "Questions/Extend VG and LV.md",
+    "Questions/Create and attach a swap partition.md",
     "Notes/Attach new partitions.md",
+    "Notes/Attach swap partitions.md",
     "Questions/Shrink logical volume.md",
     "Notes/MBR partition scheme.md",
     "Notes/GPT partition scheme.md",
     "Notes/Stratis layered storage.md",
-    "Questions/Create and attach a swap partition.md",
-    "Questions/Extend VG and LV.md",
-    "Notes/Logical Volume Manager.md",
-    "Questions/Create a logical volume.md",
     "Notes/Special permissions.md",
     "Notes/Adding repos.md",
     "Questions/Add a new repo from a url.md",
@@ -220,7 +221,6 @@
     "Notes/Monitoring Processes.md",
     "Notes/Signalling processes.md",
     "Notes/Moving files.md",
-    "Notes/Reset root password.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
