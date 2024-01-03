@@ -2,43 +2,70 @@
 tags:
   - flashcards
   - rh134
-  - rh134/Ch5_Storage
+  - rh134/Ch6_LVM
+  - important
+required:
+  - "[[Attach new partitions]]"
 ---
-What is the main benefit of stratis?::Filesystems are automatically expanding (on demand). So no need to create a partitions with specific size at first, then extend it later. 
+Why LVM is used?::To overcome the limitation of physical partitions
 
-How to install stratis?
+What is the main benefit of LVM?::Partitions can be resized easily
+
+What are used by logical volumes to store data?::Physical volumes
+
+What can be used to create a PV?::An entire disk or a partition of it
+
+What are the steps of creating logical volumes?
 ?
-`dnf install stratisd stratis-cli`
-`systemctl enable --now stratisd`
+1. Convert physical disks to physical volumes (PVs)
+2. Create an one large volume group (VG) by combining all those PVs
+3. Divid the VG into smaller logical volumes(LVs) as how you would partition a physical disk
 
-How to create a stratis pool?:`stratis pool create mypool /dev/vdb`
+How to create PVs?::`pvcreate /dev/sda /dev/sdb2`
 
-How to list all the available stratis pools?
+How to display all the available PVs?
 ?
-`stratis pool list`
-![](https://i.imgur.com/0RfNS7S.png)
+`pvs`
+![](https://i.imgur.com/vGfEhSg.png)
 
-How to list members of a stratis pool?
+How to remove a PV?::`pvremove /dev/sda`
+
+How to display info of a single PV?
 ?
-`stratis blockdev list mypool`
-![](https://i.imgur.com/GyfqqNR.png)
+`pvdisplay /dev/sdb`
+![](https://i.imgur.com/jdJIWQe.png)
 
-How to destroy a stratis pool?::`stratis pool destroy mypool`
+How to create a VG?::`vgcreate vg01 /dev/sda /dev/sdb2`
 
-How to create a filesystem in a stratis pool?::`stratis filesystem create mypool myfs`
+How to display all the available VGs?::`vgs`
+![](https://i.imgur.com/ZpwumVV.png)
 
-How to destroy a stratis filesystem?::`stratis filesystem destroy mypool myfs`
+How to remove a VG?::`vgremove /dev/vg01`
 
-How to take a snapshot of a filesystem?::`stratis filesystem snapshot mypool myfs myfs-snap`
-
-In which filesystem stratis filesystems are created?::xfs
-
-How to permanently mount a stratis filesystem?::Add `UUID=7b57190-8fba-463e-8c8-29c80703d45e /dir1 ×fs defaults,x-systemd.requires=stratisd.service 0 0` to /etc/fstab. There is a special permission
-
-How to expand a pool by adding more disks?::`stratis pool add-data mypool /dev/vdc`
-
-How to list all the available stratis filesystems?
+How to display info of about a single VG?
 ?
-![](https://i.imgur.com/xWlZ4eO.png)
+`vgdisplay vg01` or `vgdisplay /dev/vg01`
+![](https://i.imgur.com/yAjtRae.png)
 
+How to create a LV?::`lvcreate vg01 -n lv01 -L 10G`
+
+How to display all the available LVs?::`lvs`
+![](https://i.imgur.com/IwtGBVV.png)
+
+How to display info about a single LV?
+?
+`lvdisplay vg01/lv01` or `lvdisplay /dev/vg01/lv01`
+![](https://i.imgur.com/335ECd7.png)
+
+How to remove a LV?::`lvremove /dev/vg01/lv01`
+
+How to extend a LV, if there is enough space in that VG?::`lvextend vg01/lv01 -L +5G` or `/lvextend vgo1/lv01 -L +500M`
+
+How to extend a VG, if there is no additional space?::`vgextend vg01 /dev/vdc`
+
+How to grow an ext4 filesystem when a LV is extended?::`resize2fs /mnt/data`
+
+How to grow a xfs filesystem when a LV is extended?::`xfs_growfs /mnt/data`
+
+How to format a swap LV after extending?::As how you would normally do it, `mkswap /dev/vg01/swap`
 
