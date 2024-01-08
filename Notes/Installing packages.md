@@ -17,6 +17,8 @@ How to install a package using rpm?::`rpm -ivh package-name.rpm`
 
 <!--SR:!2023-08-08,4,270-->
 
+How to list all the files related to an installed package?::`rpm -qc httpd`
+
 When is it advised to exact and inspect rpm files before installing?::To find any possible vulnerabilities in third party packages
 
 <!--SR:!2023-08-08,4,270-->

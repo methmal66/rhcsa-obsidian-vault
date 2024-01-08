@@ -51,3 +51,10 @@ How to view any local customisations to the default policy?
 ?
 `semanage fcontext -lC`
 ![](https://i.imgur.com/FUphnVN.png)
+
+How to list ports which are applied to the label?::`selinux port -l`
+
+How to add label to a port?::`semanage port -at http_port_t -p tcp 82`
+
+
+

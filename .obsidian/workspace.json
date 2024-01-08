@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Logical Volume Manager.md",
+                "file": "Notes/Context policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,14 +23,15 @@
             "id": "9009726a9bd4ddbd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Notes/Troubleshoot SELinux.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:rh134/Ch4_SELinux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "675edfdea07dae25",
@@ -99,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Logical Volume Manager.md"
+                "file": "Notes/Context policy.md"
               }
             }
           }
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Logical Volume Manager.md",
+                "file": "Notes/Context policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Logical Volume Manager.md",
+                "file": "Notes/Context policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Logical Volume Manager.md"
+                "file": "Notes/Context policy.md"
               }
             }
           },
@@ -206,11 +207,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9009726a9bd4ddbd",
+  "active": "701540480407f2dc",
   "lastOpenFiles": [
+    "Notes/Troubleshoot SELinux.md",
+    "Notes/Enforcement mode.md",
+    "Notes/Boolean policy.md",
+    "Notes/Context policy.md",
+    "Questions/Run SELinux in enforcing mode.md",
+    "Notes/Logical Volume Manager.md",
+    "Notes/Installing packages.md",
     "Questions/Extend a logical volume.md",
     "Questions/Create a logical volume.md",
-    "Notes/Logical Volume Manager.md",
     "Questions/Extend VG and LV.md",
     "Questions/Create and attach a swap partition.md",
     "Notes/Attach new partitions.md",
@@ -228,12 +235,6 @@
     "Notes/Kernel parameters.md",
     "Notes/inode depletion.md",
     "Notes/Implement key authentication.md",
-    "Notes/Gaining superuser access.md",
-    "Notes/Environmental variables.md",
-    "Notes/Creating links.md",
-    "Notes/Monitoring Processes.md",
-    "Notes/Signalling processes.md",
-    "Notes/Moving files.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
