@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Context policy.md",
+                "file": "Notes/Containers.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:rh134/Ch4_SELinux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "675edfdea07dae25",
@@ -100,7 +99,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Context policy.md"
+                "file": "Notes/Containers.md"
               }
             }
           }
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Context policy.md",
+                "file": "Notes/Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Context policy.md",
+                "file": "Notes/Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Context policy.md"
+                "file": "Notes/Containers.md"
               }
             }
           },
@@ -209,13 +208,17 @@
   },
   "active": "701540480407f2dc",
   "lastOpenFiles": [
+    "Notes/Installing packages.md",
+    "Notes/Containers.md",
+    "Interviews/How to rollback the packages after patching?.md",
+    "Notes/Automounter.md",
+    "Notes/Adding repos.md",
+    "Notes/Context policy.md",
     "Notes/Troubleshoot SELinux.md",
     "Notes/Enforcement mode.md",
     "Notes/Boolean policy.md",
-    "Notes/Context policy.md",
     "Questions/Run SELinux in enforcing mode.md",
     "Notes/Logical Volume Manager.md",
-    "Notes/Installing packages.md",
     "Questions/Extend a logical volume.md",
     "Questions/Create a logical volume.md",
     "Questions/Extend VG and LV.md",
@@ -227,14 +230,10 @@
     "Notes/GPT partition scheme.md",
     "Notes/Stratis layered storage.md",
     "Notes/Special permissions.md",
-    "Notes/Adding repos.md",
     "Questions/Add a new repo from a url.md",
     "Notes/Password policies.md",
     "Notes/Permissions.md",
     "Notes/Accounts.md",
-    "Notes/Kernel parameters.md",
-    "Notes/inode depletion.md",
-    "Notes/Implement key authentication.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
