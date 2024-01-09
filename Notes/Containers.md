@@ -11,4 +11,8 @@ How to search for a remote image?::`podman search imagename`
 
 How to create a new network?::`podman network create mynet --subnet 192.168.1.0/24 --gateway 192.168.1.1`
 
-How to 
+How to run a container as a service?
+1. Create the container `podman create -t mycont ... localhost/myimg`
+2. Generate a new service unit `podman generate systemd --name mycont > /etc/systemd/system/mycont_pod.service`
+3. Restart daemon `systemctl daemon-reload`
+4. Start the service `systemctl enable --now mycont_pod`
