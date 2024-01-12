@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Containers.md",
+                "file": "Questions/Add a new repo from a url.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "675edfdea07dae25",
@@ -99,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Containers.md"
+                "file": "Questions/Add a new repo from a url.md"
               }
             }
           }
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Containers.md",
+                "file": "Questions/Add a new repo from a url.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Containers.md",
+                "file": "Questions/Add a new repo from a url.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Containers.md"
+                "file": "Questions/Add a new repo from a url.md"
               }
             }
           },
@@ -208,32 +209,33 @@
   },
   "active": "701540480407f2dc",
   "lastOpenFiles": [
-    "Notes/Installing packages.md",
-    "Notes/Containers.md",
-    "Interviews/How to rollback the packages after patching?.md",
-    "Notes/Automounter.md",
+    "Interviews/You are trying to create the file under any partition, but getting permission denied. However, no space issue and permission issue. Then what could be the reason?.md",
+    "Notes/Attach swap partitions.md",
+    "Notes/Attach new partitions.md",
+    "Interviews/Config a NFS server and connect a client to it.md",
+    "Notes/Reset root password.md",
+    "Notes/Password policies.md",
+    "Questions/Model paper - part II.md",
+    "Notes/Logical Volume Manager.md",
+    "Notes/Kernel parameters.md",
+    "Notes/Enforcement mode.md",
+    "Notes/Cron jobs.md",
     "Notes/Adding repos.md",
+    "Notes/Accounts.md",
+    "Notes/Automounter.md",
+    "Untitled",
+    "Notes/Containers.md",
+    "Notes/Installing packages.md",
+    "Interviews/How to rollback the packages after patching?.md",
     "Notes/Context policy.md",
     "Notes/Troubleshoot SELinux.md",
-    "Notes/Enforcement mode.md",
     "Notes/Boolean policy.md",
     "Questions/Run SELinux in enforcing mode.md",
-    "Notes/Logical Volume Manager.md",
     "Questions/Extend a logical volume.md",
     "Questions/Create a logical volume.md",
     "Questions/Extend VG and LV.md",
     "Questions/Create and attach a swap partition.md",
-    "Notes/Attach new partitions.md",
-    "Notes/Attach swap partitions.md",
     "Questions/Shrink logical volume.md",
-    "Notes/MBR partition scheme.md",
-    "Notes/GPT partition scheme.md",
-    "Notes/Stratis layered storage.md",
-    "Notes/Special permissions.md",
-    "Questions/Add a new repo from a url.md",
-    "Notes/Password policies.md",
-    "Notes/Permissions.md",
-    "Notes/Accounts.md",
     "Resources/examdump3.pdf",
     "Resources/examdump2.pdf",
     "Resources/examdump1.pdf",
@@ -244,7 +246,6 @@
     "Notes",
     "untitled folder",
     "Resources/red.hat.certshared.ex200.vce.2022-jul-03.by.norman.68q.vce.pdf",
-    "Resources/Unconfirmed 912482.crdownload",
     "Pasted image 20230805105322.png",
     "Pasted image 20230803123655.png"
   ]
